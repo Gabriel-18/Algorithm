@@ -7,6 +7,7 @@
  */
 #include <stdio.h>
 int main() {
+
     int n;
     int step = 0;
     scanf("%d", &n);
