@@ -1,0 +1,1 @@
+[快排模板](https://github.com/Gabriel-18/Algorithm/blob/master/785.cpp)
